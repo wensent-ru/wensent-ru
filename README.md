@@ -11,4 +11,3 @@ Thanks for visiting my github profile. Have a great day ahead!</a>
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-a524a5?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ## Github Stats
 ![GitHub](https://github-readme-stats.vercel.app/api?username=wensent-ru&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wensent-ru&layout=compact&theme=material-palenight)](https://github.com/HekaHub/github-readme-stats)
