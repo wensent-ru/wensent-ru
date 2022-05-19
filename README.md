@@ -9,5 +9,4 @@ Thanks for visiting my github profile. Have a great day ahead!</a>
 ![CSS](https://shields.io/badge/-CSS3-991199?style=flat-square&logo=css3&logoColor=ffffff)
 ![PyCharm](https://shields.io/badge/-PyCharm-9f1b9f?style=flat-square&logo=PyCharm&logoColor=ffffff)
 ![Visual Studio Code](https://shields.io/badge/-Visual_Studio_Code-a524a5?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-## Github Stats
-![GitHub](https://github-readme-stats.vercel.app/api?username=wensent-ru&show_icons=true&theme=radical)
+
